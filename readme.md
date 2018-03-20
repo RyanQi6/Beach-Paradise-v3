@@ -1,4 +1,4 @@
-#Beach Paradise
+# Beach Paradise
 - Created a web application for user to share and comment on beautiful beach informations
 - Front-end UI design with HTML, CSS, JavaScript, jQuery, and Bootstrap 
 - Built RESTful routes with Node.js and MongoDB and deployed on AWS
